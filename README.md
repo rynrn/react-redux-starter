@@ -2,7 +2,7 @@
 React + Redux + React bootstrap<br>
 
 Install:
-## npm i
+### npm i
 
 Run:
-## npm start
+### npm start
